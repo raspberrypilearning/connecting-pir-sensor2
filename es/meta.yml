@@ -1,5 +1,8 @@
-title: Connecting PIR Sensor      
+title: Connecting PIR Sensor
 hero_image: images/banner.png
 subtitle: About PIR Motion Sensors
 description: Find out what a PIR motion sensor is in this mini guide
-published: 'false'
+published: false
+steps:
+  - title: Step one in spanish
+    duration: 60
